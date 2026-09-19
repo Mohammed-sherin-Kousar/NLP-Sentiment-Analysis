@@ -1,0 +1,101 @@
+review_id,review_text,sentiment,rating
+1,"This movie was absolutely fantastic! The acting was superb and the plot kept me engaged from start to finish.",1,9.0
+2,"Waste of time. Boring and predictable. I would not recommend it to anyone.",0,2.0
+3,"A beautiful story with great performances. One of the best films I have seen this year.",1,8.5
+4,"Terrible script and weak direction. Could not wait for it to end.",0,1.5
+5,"Loved every minute! The cinematography was stunning and the music was perfect.",1,9.5
+6,"Not worth the ticket price. Slow and confusing plot.",0,3.0
+7,"An emotional rollercoaster. The cast did an amazing job bringing the characters to life.",1,8.0
+8,"Disappointing. The trailer was better than the actual movie.",0,4.0
+9,"Brilliant storytelling and unexpected twists. Highly recommend!",1,9.0
+10,"Boring and overrated. I do not understand the hype at all.",0,2.5
+11,"Heartwarming and funny. Perfect for a weekend watch with family.",1,8.5
+12,"The worst movie I have ever seen. Complete waste of two hours.",0,1.0
+13,"Outstanding performance by the lead actor. The ending left me in tears.",1,9.0
+14,"Mediocre at best. Nothing special about this one.",0,5.0
+15,"Captivating from the first scene. A must-watch for everyone.",1,8.5
+16,"Confusing and dull. Could not follow the story at all.",0,3.5
+17,"Such a touching film! The message was powerful and well delivered.",1,8.0
+18,"Poor acting and bad dialogue. Very disappointed.",0,2.0
+19,"Incredible visuals and a gripping narrative. One of the best of the decade.",1,9.5
+20,"Save your money. This film is a total flop.",0,1.5
+21,"I was moved to tears. Beautiful direction and screenplay.",1,8.5
+22,"Predictable and cliché. Nothing new or exciting here.",0,4.0
+23,"The chemistry between the actors was amazing. So much fun to watch!",1,8.0
+24,"Terrible pacing. Felt like it would never end.",0,3.0
+25,"A masterpiece! Every frame was thoughtfully crafted.",1,9.0
+26,"Not my cup of tea. Found it boring and slow.",0,4.5
+27,"Inspiring and uplifting. Exactly what I needed to see.",1,8.5
+28,"Waste of talent. The script did not do justice to the actors.",0,3.5
+29,"Thrilling and suspenseful. Edge of my seat the whole time!",1,9.0
+30,"Overhyped and underwhelming. Would not watch again.",0,4.0
+31,"So heartwarming! The kind of movie that stays with you.",1,8.0
+32,"Cheap effects and weak storyline. Very amateur.",0,2.5
+33,"Brilliant writing and direction. A true work of art.",1,9.0
+34,"Dull and forgettable. Skip this one.",0,3.0
+35,"Laugh-out-loud funny and genuinely touching. Loved it!",1,8.5
+36,"Confusing plot and unlikeable characters. Big no.",0,2.0
+37,"The best film I have seen in a long time. Do not miss it!",1,9.5
+38,"Boring dialogue and no real plot. Very disappointed.",0,3.5
+39,"Stunning visuals and a powerful message. Highly recommend.",1,8.5
+40,"Total disaster. Regret watching it.",0,1.5
+41,"Emotionally powerful. The performances were outstanding.",1,9.0
+42,"Slow and pointless. Could have been an hour shorter.",0,3.0
+43,"Fun and entertaining from start to finish. Great cast!",1,8.0
+44,"Worst screenplay ever. Nothing made sense.",0,2.0
+45,"A beautiful and moving story. Cried and laughed in equal measure.",1,8.5
+46,"Not worth the hype. Mediocre in every way.",0,4.0
+47,"Captivating and thought-provoking. A real gem.",1,9.0
+48,"Poor production value. Looked like a student film.",0,2.5
+49,"Incredible! Every scene was perfect. Best of the year.",1,9.5
+50,"Tedious and uninspired. Would not recommend.",0,3.0
+51,"So inspiring! Left the theater feeling motivated.",1,8.5
+52,"Terrible acting. Could not take any of it seriously.",0,2.0
+53,"A triumph of storytelling. Bravo to everyone involved!",1,9.0
+54,"Confusing and boring. Fell asleep halfway through.",0,2.5
+55,"Heartfelt and genuine. One of those rare perfect films.",1,8.5
+56,"Complete waste of time and money. Avoid at all costs.",0,1.0
+57,"The direction was superb. Every detail mattered.",1,9.0
+58,"Dreadful script. How did this get made?",0,2.0
+59,"Joyful and uplifting. Exactly what cinema should be.",1,8.5
+60,"Overlong and pretentious. Not for me.",0,4.0
+61,"Powerful performances across the board. A must-see.",1,9.0
+62,"Cheesy and predictable. Nothing original here.",0,3.5
+63,"Touching and beautifully shot. Will watch again.",1,8.0
+64,"Awful from start to finish. Huge letdown.",0,1.5
+65,"Brilliant concept executed perfectly. Loved every second!",1,9.0
+66,"Slow burn that never caught fire. Boring.",0,3.0
+67,"Such a feel-good movie! Perfect for any mood.",1,8.5
+68,"Waste of a good cast. Script was terrible.",0,3.0
+69,"Masterful storytelling. One of the best I have seen.",1,9.5
+70,"Forgettable and bland. Nothing stood out.",0,4.0
+71,"Emotional and gripping. Could not look away.",1,8.5
+72,"Poor character development. Could not care about anyone.",0,3.5
+73,"A delight from beginning to end. So much fun!",1,8.0
+74,"Terrible pacing and weak ending. Disappointing.",0,3.0
+75,"Outstanding in every way. A true classic in the making.",1,9.0
+76,"Boring and pointless. Do not bother.",0,2.5
+77,"Heartbreaking and beautiful. Cinema at its finest.",1,9.0
+78,"Bad dialogue and worse acting. Skip it.",0,2.0
+79,"Incredibly moving. The kind of film that changes you.",1,8.5
+80,"Overrated and dull. Expected so much more.",0,4.0
+81,"Thrilling and emotional. A rollercoaster of feelings!",1,9.0
+82,"Confusing mess. Could not make sense of the plot.",0,2.5
+83,"Wonderful performances and a touching story. Loved it!",1,8.5
+84,"Cheap and lazy filmmaking. Very disappointed.",0,2.0
+85,"A gem of a film. Do not miss this one!",1,9.0
+86,"Tedious and overlong. Fell asleep.",0,3.0
+87,"So powerful and well-crafted. Bravo!",1,8.5
+88,"Worst movie of the year. No question.",0,1.5
+89,"Beautiful and inspiring. Exactly what I needed.",1,8.5
+90,"Predictable and boring. Seen it all before.",0,4.0
+91,"The acting was phenomenal. Story was gripping.",1,9.0
+92,"Terrible special effects. Looked fake and cheap.",0,2.5
+93,"Uplifting and heartwarming. A joy to watch.",1,8.0
+94,"Complete nonsense. Waste of time.",0,2.0
+95,"One of the best films ever made. Truly outstanding.",1,9.5
+96,"Dull and uninspired. Nothing to see here.",0,3.5
+97,"So touching! The ending was perfect.",1,8.5
+98,"Bad writing and worse direction. Avoid.",0,2.0
+99,"A masterpiece of modern cinema. Stunning.",1,9.0
+100,"Overhyped garbage. Do not believe the reviews.",0,2.0
